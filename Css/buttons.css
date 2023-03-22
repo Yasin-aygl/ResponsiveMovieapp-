@@ -1,0 +1,55 @@
+.btn {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 7px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition-duration: .9s;
+  }
+
+  .btn-primary {
+    background-color: #3C6255;
+    color: #fff;
+    border: 2px solid #3C6255;
+  }
+  .btn-primary:hover {
+    background-color: #fff;
+    color: #3C6255;
+    border: 2px solid #3C6255;
+  }
+  .btn-outline-primary {
+    background-color: #fff;
+    color: #3C6255;
+    border: 2px solid #3C6255;
+  }
+  .btn-outline-primary:hover {
+    background-color: #3C6255;
+    color: #fff;
+    border: 2px solid #3C6255;
+  }
+
+  .btn-secondary {
+    background-color: #CFB997;
+    color: #fff;
+    border: 2px solid #CFB997;
+  }
+
+  .btn-secondary:hover {
+    background-color: #fff;
+    color: #CFB997;
+    border: 2px solid #CFB997;
+  }
+  .btn-outline-secondary {
+    background-color: #fff;
+    color: #CFB997;
+    border: 2px solid #CFB997;
+  }
+
+  .btn-outline-secondary:hover {
+    background-color: #CFB997;
+    color: #fff;
+    border: 2px solid #CFB997;
+  }
